@@ -41,7 +41,7 @@ and stock analysis. Let's connect and collaborate on innovative solutions
 
 
 
-## 🛠️ Technologies and Tools I use:
+ 🛠️ Technologies and Tools I use:
 
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
@@ -51,10 +51,11 @@ and stock analysis. Let's connect and collaborate on innovative solutions
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
+
+<br>
  
  
-### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
-![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 <img align="center" src="https://github.com/rajnishkumar20/image-hosting/blob/main/lets%20code.gif?raw=true">
 
