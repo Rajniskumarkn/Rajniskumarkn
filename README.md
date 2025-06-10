@@ -4,11 +4,11 @@
 </p>
 
 <p>
-I’m a Full Stack.
+I’m a Developer.
 Ex-Front-End-Intern @1Stop || Web Developer ||
 I am pursuing a degree in Information Technology at the University of Chandigarh.
 
-Rajnish Kumar, an aspiring Full-Stack Developer with a dedication to excellence and a hunger for knowledge.
+Rajnish Kumar, an aspiring Full-Stack Developer as well Software developer with a dedication to excellence and a hunger for knowledge.
 Proficient in both front-end and back-end design, I excel in developing cutting-edge solutions with precision
 and efficiency, consistently meeting deadlines. Outside of coding, I find solace in church, fostering a balanced
 perspective and nurturing creativity. Currently pursuing a BE-IT degree at Chandigarh University, I've honed skills
