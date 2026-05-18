@@ -7,6 +7,7 @@
 I’m a Developer.
 Ex-Front-End-Intern @1Stop || Web Developer ||
 I am pursuing a degree in Information Technology at the University of Chandigarh.
+  <p>
 Rajnish Kumar, an aspiring Developer with a dedication to excellence and a hunger for knowledge. Proficient in Web Development and software Developer , I excel in developing cutting-edge solutions with precision and efficiency, consistently meeting deadlines. Outside of coding, I find solace in church, fostering a balanced perspective and nurturing creativity. Currently pursuing a BE-IT degree at Chandigarh University, I've honed skills in project management, critical thinking, and graphic design. My passion projects include research on targeted advertising and stock analysis. Let's connect and collaborate on innovative solutions
 </p>
 <p align="center">
