@@ -54,9 +54,6 @@ and stock analysis. Let's connect and collaborate on innovative solutions
 
 <br>
  
- 
-
-
 <img align="center" src="https://github.com/rajnishkumar20/image-hosting/blob/main/lets%20code.gif?raw=true">
 
 <p align="center"> | --------------------------------------------------------- | ------------------------------------------------------------ | </p>
