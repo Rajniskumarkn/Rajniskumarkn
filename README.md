@@ -1,14 +1,14 @@
 <h2 align="center">Hi, I'm Rajnish Kumar 👋</h2>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+MERN+Stack+developer;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+JAVA+Full+Stack+DEVELOPER;" /></a>
 </p>
 
 <p>
 I’m a Developer.
-Ex-Front-End-Intern @1Stop || Web Developer ||
-I am pursuing a degree in Information Technology at the University of Chandigarh.
+Intern in Agentwaala as a Operation Officer || Ex-Front-End-Intern @1Stop || Web Developer ||
+I Completed my degree in Bachelor of Engineering in  Information Technology from University of Chandigarh.
   <p>
-Rajnish Kumar, an aspiring Developer with a dedication to excellence and a hunger for knowledge. Proficient in Web Development and software Developer , I excel in developing cutting-edge solutions with precision and efficiency, consistently meeting deadlines. Outside of coding, I find solace in church, fostering a balanced perspective and nurturing creativity. Currently pursuing a BE-IT degree at Chandigarh University, I've honed skills in project management, critical thinking, and graphic design. My passion projects include research on targeted advertising and stock analysis. Let's connect and collaborate on innovative solutions
+Aspiring Java Full Stack Developer with a good understanding of java,SQL,HTML,CSS and JavaScript. Familiar with back-end development, database management and building web applications. Skilled in problem-Solving,logical Thinking and developing practical solution. Interested in learning new technologies and applying technical knowledge to develop efficient,user-friendly applications
 </p>
 <p align="center">
  
