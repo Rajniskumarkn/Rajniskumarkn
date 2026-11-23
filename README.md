@@ -46,6 +46,9 @@ Rajnish Kumar, an aspiring Developer with a dedication to excellence and a hunge
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
+<img alt="Java"
+src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white"
+height="25px"/>
 
 <br>
  
